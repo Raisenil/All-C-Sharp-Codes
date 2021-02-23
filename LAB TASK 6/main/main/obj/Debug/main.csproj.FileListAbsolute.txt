@@ -1,0 +1,7 @@
+D:\C#\LAB TASK 6\main\main\obj\Debug\main.csprojAssemblyReference.cache
+D:\C#\LAB TASK 6\main\main\obj\Debug\main.csproj.CoreCompileInputs.cache
+D:\C#\LAB TASK 6\main\main\bin\Debug\main.exe.config
+D:\C#\LAB TASK 6\main\main\bin\Debug\main.exe
+D:\C#\LAB TASK 6\main\main\bin\Debug\main.pdb
+D:\C#\LAB TASK 6\main\main\obj\Debug\main.exe
+D:\C#\LAB TASK 6\main\main\obj\Debug\main.pdb

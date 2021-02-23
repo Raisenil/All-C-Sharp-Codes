@@ -1,0 +1,12 @@
+D:\C#\Lab task 8\Forms_Practice\Forms_Practice\bin\Debug\Forms_Practice.exe.config
+D:\C#\Lab task 8\Forms_Practice\Forms_Practice\bin\Debug\Forms_Practice.exe
+D:\C#\Lab task 8\Forms_Practice\Forms_Practice\bin\Debug\Forms_Practice.pdb
+D:\C#\Lab task 8\Forms_Practice\Forms_Practice\obj\Debug\Forms_Practice.csprojAssemblyReference.cache
+D:\C#\Lab task 8\Forms_Practice\Forms_Practice\obj\Debug\Forms_Practice.Form1.resources
+D:\C#\Lab task 8\Forms_Practice\Forms_Practice\obj\Debug\Forms_Practice.Properties.Resources.resources
+D:\C#\Lab task 8\Forms_Practice\Forms_Practice\obj\Debug\Forms_Practice.csproj.GenerateResource.cache
+D:\C#\Lab task 8\Forms_Practice\Forms_Practice\obj\Debug\Forms_Practice.csproj.CoreCompileInputs.cache
+D:\C#\Lab task 8\Forms_Practice\Forms_Practice\obj\Debug\Forms_Practice.exe
+D:\C#\Lab task 8\Forms_Practice\Forms_Practice\obj\Debug\Forms_Practice.pdb
+D:\C#\Lab task 8\Forms_Practice\Forms_Practice\obj\Debug\Forms_Practice.Form2.resources
+D:\C#\Lab task 8\Forms_Practice\Forms_Practice\obj\Debug\Forms_Practice.Form3.resources

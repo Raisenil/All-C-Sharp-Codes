@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BookManagment",
+    "\\BookManagment\\BookManagment",
+    "\\BookManagment\\BookManagment\\Models",
+    "\\BookManagment\\BookManagment\\Views"
+  ],
+  "SelectedNode": "\\BookManagment\\BookManagment\\Models\\Books.cs",
+  "PreviewInSolutionExplorer": false
+}

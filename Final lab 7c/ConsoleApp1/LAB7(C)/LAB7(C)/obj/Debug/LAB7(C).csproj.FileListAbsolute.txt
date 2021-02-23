@@ -1,0 +1,7 @@
+D:\C#\Final lab 7c\ConsoleApp1\LAB7(C)\LAB7(C)\bin\Debug\LAB7(C).exe.config
+D:\C#\Final lab 7c\ConsoleApp1\LAB7(C)\LAB7(C)\bin\Debug\LAB7(C).exe
+D:\C#\Final lab 7c\ConsoleApp1\LAB7(C)\LAB7(C)\bin\Debug\LAB7(C).pdb
+D:\C#\Final lab 7c\ConsoleApp1\LAB7(C)\LAB7(C)\obj\Debug\LAB7(C).csprojAssemblyReference.cache
+D:\C#\Final lab 7c\ConsoleApp1\LAB7(C)\LAB7(C)\obj\Debug\LAB7(C).csproj.CoreCompileInputs.cache
+D:\C#\Final lab 7c\ConsoleApp1\LAB7(C)\LAB7(C)\obj\Debug\LAB7(C).exe
+D:\C#\Final lab 7c\ConsoleApp1\LAB7(C)\LAB7(C)\obj\Debug\LAB7(C).pdb

@@ -1,0 +1,14 @@
+D:\C#\Final lab 7\.vs\Final Lab 7\bin\Debug\Final Lab 7.exe.config
+D:\C#\Final lab 7\.vs\Final Lab 7\bin\Debug\Final Lab 7.exe
+D:\C#\Final lab 7\.vs\Final Lab 7\bin\Debug\Final Lab 7.pdb
+D:\C#\Final lab 7\.vs\Final Lab 7\obj\Debug\Final Lab 7.csprojAssemblyReference.cache
+D:\C#\Final lab 7\.vs\Final Lab 7\obj\Debug\Final Lab 7.csproj.CoreCompileInputs.cache
+D:\C#\Final lab 7\.vs\Final Lab 7\obj\Debug\Final Lab 7.exe
+D:\C#\Final lab 7\.vs\Final Lab 7\obj\Debug\Final Lab 7.pdb
+D:\C#\Final Lab 7\Final Lab 7\bin\Debug\Final Lab 7.exe.config
+D:\C#\Final Lab 7\Final Lab 7\bin\Debug\Final Lab 7.exe
+D:\C#\Final Lab 7\Final Lab 7\bin\Debug\Final Lab 7.pdb
+D:\C#\Final Lab 7\Final Lab 7\obj\Debug\Final Lab 7.csprojAssemblyReference.cache
+D:\C#\Final Lab 7\Final Lab 7\obj\Debug\Final Lab 7.csproj.CoreCompileInputs.cache
+D:\C#\Final Lab 7\Final Lab 7\obj\Debug\Final Lab 7.exe
+D:\C#\Final Lab 7\Final Lab 7\obj\Debug\Final Lab 7.pdb
