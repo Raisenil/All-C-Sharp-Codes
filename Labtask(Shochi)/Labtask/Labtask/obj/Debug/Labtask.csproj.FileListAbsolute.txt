@@ -1,0 +1,7 @@
+D:\C#\Labtask\Labtask\Labtask\obj\Debug\Labtask.csprojAssemblyReference.cache
+D:\C#\Labtask\Labtask\Labtask\obj\Debug\Labtask.csproj.CoreCompileInputs.cache
+D:\C#\Labtask\Labtask\Labtask\bin\Debug\Labtask.exe.config
+D:\C#\Labtask\Labtask\Labtask\bin\Debug\Labtask.exe
+D:\C#\Labtask\Labtask\Labtask\bin\Debug\Labtask.pdb
+D:\C#\Labtask\Labtask\Labtask\obj\Debug\Labtask.exe
+D:\C#\Labtask\Labtask\Labtask\obj\Debug\Labtask.pdb

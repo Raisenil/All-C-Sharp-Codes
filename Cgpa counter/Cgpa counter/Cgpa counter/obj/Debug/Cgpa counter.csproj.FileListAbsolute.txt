@@ -1,0 +1,7 @@
+D:\C#\Cgpa counter\Cgpa counter\Cgpa counter\obj\Debug\Cgpa counter.csprojAssemblyReference.cache
+D:\C#\Cgpa counter\Cgpa counter\Cgpa counter\obj\Debug\Cgpa counter.csproj.CoreCompileInputs.cache
+D:\C#\Cgpa counter\Cgpa counter\Cgpa counter\bin\Debug\Cgpa counter.exe.config
+D:\C#\Cgpa counter\Cgpa counter\Cgpa counter\bin\Debug\Cgpa counter.exe
+D:\C#\Cgpa counter\Cgpa counter\Cgpa counter\bin\Debug\Cgpa counter.pdb
+D:\C#\Cgpa counter\Cgpa counter\Cgpa counter\obj\Debug\Cgpa counter.exe
+D:\C#\Cgpa counter\Cgpa counter\Cgpa counter\obj\Debug\Cgpa counter.pdb
