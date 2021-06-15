@@ -1,0 +1,7 @@
+D:\C#\Employee salary\Salary\Salary\bin\Debug\Salary.exe.config
+D:\C#\Employee salary\Salary\Salary\bin\Debug\Salary.exe
+D:\C#\Employee salary\Salary\Salary\bin\Debug\Salary.pdb
+D:\C#\Employee salary\Salary\Salary\obj\Debug\Salary.csprojAssemblyReference.cache
+D:\C#\Employee salary\Salary\Salary\obj\Debug\Salary.csproj.CoreCompileInputs.cache
+D:\C#\Employee salary\Salary\Salary\obj\Debug\Salary.exe
+D:\C#\Employee salary\Salary\Salary\obj\Debug\Salary.pdb
